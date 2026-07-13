@@ -1,0 +1,49 @@
+name: Update README
+
+on:
+  schedule:
+    # 每 6 小时跑一次（cron 用 UTC）。GitHub 定时任务不保证准点，通常延迟几分钟。
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    # 只在模板/脚本/工作流变动时重建。
+    # 机器人只提交 README.md，不在这个 paths 列表里，所以不会触发自己造成死循环。
+    paths:
+      - "README.template.md"
+      - "scripts/**"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_readme.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "README 无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: auto-update README"
+          git push
