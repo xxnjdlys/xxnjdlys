@@ -8,7 +8,7 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — 2026-07-13
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-07-13
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
 - [**Happy-Match-**](https://github.com/xxnjdlys/Happy-Match-) — 开心消消乐 · TypeScript · 2026-06-15
 - [**CetusCastWeb**](https://github.com/xxnjdlys/CetusCastWeb) — CetusCast 的官网 · TypeScript · 2026-06-11
@@ -17,10 +17,10 @@
 ## 📝 最近提交
 
 - [`7d4245a`](https://github.com/xxnjdlys/xxnjdlys/commit/7d4245a0f40571b13797b239470a4663a15a2f9a) Initial commit — `xxnjdlys/xxnjdlys` · 2026-07-13
-- [`50cd235`](https://github.com/xxnjdlys/EvilAlarm/commit/50cd235909bf3416adebea2f48d051f2dbbd5288) PRD docs — `xxnjdlys/EvilAlarm` · 2026-07-09
-- [`dca2645`](https://github.com/xxnjdlys/EvilAlarm/commit/dca2645fbde8426df6718f3d7d08055522414898) init project — `xxnjdlys/EvilAlarm` · 2026-07-09
-- [`2fa27e3`](https://github.com/xxnjdlys/EvilAlarm/commit/2fa27e3bacc042b29c38875fe9d9e9066f9f0acb) Add EvilAlarm PRD — `xxnjdlys/EvilAlarm` · 2026-07-09
-- [`cbfa2bf`](https://github.com/xxnjdlys/EvilAlarm/commit/cbfa2bf1067e0aaebb94dba9f2405d7e73a12951) Initial commit — `xxnjdlys/EvilAlarm` · 2026-07-09
+- [`974f478`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/974f478251f92b8b9f2b663f4ef4403edca3d76f) feat: use avatar in v3 header — `xxnjdlys/xxnjdlys.github.io` · 2026-07-08
+- [`656c2b2`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/656c2b2ecbcc7ea60129cb6c5ed9e2c67b1956b2) feat: publish v3 homepage — `xxnjdlys/xxnjdlys.github.io` · 2026-07-08
+- [`1b3439a`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/1b3439ae9d7c244666fb1185ccfc766d46f229dc) feat: replace homepage with fullscreen video hero built with React — `xxnjdlys/xxnjdlys.github.io` · 2026-07-05
+- [`202f01e`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/202f01eaaa3c4d3125ba337528e902bed0f153ec) feat: redesign homepage as static single-file site — `xxnjdlys/xxnjdlys.github.io` · 2026-07-05
 
 ## ⭐ 最近 Star
 
@@ -32,11 +32,11 @@
 
 ## 🔀 最近 Pull Request
 
-- 🟣 [Feature/mark](https://github.com/xxnjdlys/Yating/pull/3) — `xxnjdlys/Yating` · 2026-06-29
-- 🟣 [resize mode optimize](https://github.com/xxnjdlys/Yating/pull/2) — `xxnjdlys/Yating` · 2026-06-24
-- 🟣 [Feature/format support](https://github.com/xxnjdlys/Yating/pull/1) — `xxnjdlys/Yating` · 2026-06-24
 - 🟣 [Develop](https://github.com/xxnjdlys/CetusCastWeb/pull/2) — `xxnjdlys/CetusCastWeb` · 2026-06-11
 - 🟣 [chore: add bilingual README and landing page implementation](https://github.com/xxnjdlys/CetusCastWeb/pull/1) — `xxnjdlys/CetusCastWeb` · 2026-06-10
+- 🟣 [DemoAgent entering the arena](https://github.com/Significant-Gravitas/AutoGPT/pull/6267) — `Significant-Gravitas/AutoGPT` · 2023-11-17
+- 🟣 [TerminalGpt entering the arena](https://github.com/Significant-Gravitas/AutoGPT/pull/6266) — `Significant-Gravitas/AutoGPT` · 2023-11-17
+- 🟣 [LysAgent entering the arena](https://github.com/Significant-Gravitas/AutoGPT/pull/6265) — `Significant-Gravitas/AutoGPT` · 2023-11-17
 
 ## 🐛 最近 Issue
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-13 04:38:34 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-13 04:40:41 UTC
 </p>
