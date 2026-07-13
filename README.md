@@ -16,11 +16,11 @@
 
 ## 📝 最近提交
 
+- [`8a68add`](https://github.com/xxnjdlys/xxnjdlys/commit/8a68add6356e47fcaf9cc63f4d33aff0fdbe5264) feat: 用 GitHub Actions 自动更新 profile README — `xxnjdlys/xxnjdlys` · 2026-07-13
 - [`7d4245a`](https://github.com/xxnjdlys/xxnjdlys/commit/7d4245a0f40571b13797b239470a4663a15a2f9a) Initial commit — `xxnjdlys/xxnjdlys` · 2026-07-13
 - [`974f478`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/974f478251f92b8b9f2b663f4ef4403edca3d76f) feat: use avatar in v3 header — `xxnjdlys/xxnjdlys.github.io` · 2026-07-08
 - [`656c2b2`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/656c2b2ecbcc7ea60129cb6c5ed9e2c67b1956b2) feat: publish v3 homepage — `xxnjdlys/xxnjdlys.github.io` · 2026-07-08
 - [`1b3439a`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/1b3439ae9d7c244666fb1185ccfc766d46f229dc) feat: replace homepage with fullscreen video hero built with React — `xxnjdlys/xxnjdlys.github.io` · 2026-07-05
-- [`202f01e`](https://github.com/xxnjdlys/xxnjdlys.github.io/commit/202f01eaaa3c4d3125ba337528e902bed0f153ec) feat: redesign homepage as static single-file site — `xxnjdlys/xxnjdlys.github.io` · 2026-07-05
 
 ## ⭐ 最近 Star
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-13 04:40:41 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-13 09:29:11 UTC
 </p>
