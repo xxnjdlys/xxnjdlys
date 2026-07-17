@@ -8,7 +8,7 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-07-16
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-07-17
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
 - [**Happy-Match-**](https://github.com/xxnjdlys/Happy-Match-) — 开心消消乐 · TypeScript · 2026-06-15
 - [**CetusCastWeb**](https://github.com/xxnjdlys/CetusCastWeb) — CetusCast 的官网 · TypeScript · 2026-06-11
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**Shubhamsaboo/awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. · 2026-07-17
 - ⭐ [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀… · 2026-07-05
 - ⭐ [**DavidHDev/react-bits**](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React c… · 2026-07-05
 - ⭐ [**sw33tLie/macshot**](https://github.com/sw33tLie/macshot) — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact … · 2026-06-29
 - ⭐ [**Hmbown/CodeWhale**](https://github.com/Hmbown/CodeWhale) — Open-source, community-driven agent harness · 2026-06-18
-- ⭐ [**HBAI-Ltd/Toonflow-app**](https://github.com/HBAI-Ltd/Toonflow-app) — Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作… · 2026-06-18
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-17 02:42:43 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-17 08:11:09 UTC
 </p>
