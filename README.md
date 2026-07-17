@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**peetzweg/opendisplay**](https://github.com/peetzweg/opendisplay) — Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true … · 2026-07-17
 - ⭐ [**Shubhamsaboo/awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. · 2026-07-17
 - ⭐ [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀… · 2026-07-05
 - ⭐ [**DavidHDev/react-bits**](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React c… · 2026-07-05
 - ⭐ [**sw33tLie/macshot**](https://github.com/sw33tLie/macshot) — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact … · 2026-06-29
-- ⭐ [**Hmbown/CodeWhale**](https://github.com/Hmbown/CodeWhale) — Open-source, community-driven agent harness · 2026-06-18
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-17 13:39:28 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-17 19:10:52 UTC
 </p>
