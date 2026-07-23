@@ -8,8 +8,8 @@
 
 ## 📌 最近更新的仓库
 
-- [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 - [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-07-23
+- [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
 - [**Happy-Match-**](https://github.com/xxnjdlys/Happy-Match-) — 开心消消乐 · TypeScript · 2026-06-15
 - [**CetusCastWeb**](https://github.com/xxnjdlys/CetusCastWeb) — CetusCast 的官网 · TypeScript · 2026-06-11
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-23 14:02:05 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-07-23 19:18:59 UTC
 </p>
