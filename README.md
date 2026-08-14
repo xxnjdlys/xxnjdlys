@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-14
 - ⭐ [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Show usage stats for OpenAI Codex and Claude Code, without having to login. · 2026-08-03
 - ⭐ [**open-gsd/gsd-core**](https://github.com/open-gsd/gsd-core) — Git. Ship. Done - Core · 2026-07-22
 - ⭐ [**peetzweg/opendisplay**](https://github.com/peetzweg/opendisplay) — Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true … · 2026-07-17
 - ⭐ [**Shubhamsaboo/awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. · 2026-07-17
-- ⭐ [**nexu-io/html-anything**](https://github.com/nexu-io/html-anything) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀… · 2026-07-05
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-14 07:25:23 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-14 13:07:20 UTC
 </p>
