@@ -8,7 +8,7 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-08-20
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-08-21
 - [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
 - [**Happy-Match-**](https://github.com/xxnjdlys/Happy-Match-) — 开心消消乐 · TypeScript · 2026-06-15
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**Big-Guan/jarvis-codex**](https://github.com/Big-Guan/jarvis-codex) — Jarvis × Codex v0.2.0：macOS 透明全息语音助手，本机“嗨 Jarvis”唤醒，直连 Codex Voice，在同一线程中对话、执行任… · 2026-08-21
 - ⭐ [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-14
 - ⭐ [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Show usage stats for OpenAI Codex and Claude Code, without having to login. · 2026-08-03
 - ⭐ [**open-gsd/gsd-core**](https://github.com/open-gsd/gsd-core) — Git. Ship. Done - Core · 2026-07-22
 - ⭐ [**peetzweg/opendisplay**](https://github.com/peetzweg/opendisplay) — Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true … · 2026-07-17
-- ⭐ [**Shubhamsaboo/awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. · 2026-07-17
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-21 01:18:54 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-21 06:48:05 UTC
 </p>
