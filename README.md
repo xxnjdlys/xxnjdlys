@@ -8,8 +8,8 @@
 
 ## 📌 最近更新的仓库
 
-- [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
 - [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-08-25
+- [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
 - [**deepseek-harness**](https://github.com/xxnjdlys/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-21
 - [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-25 06:48:57 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-25 12:47:52 UTC
 </p>
