@@ -8,11 +8,11 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-08-24
+- [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-08-25
+- [**deepseek-harness**](https://github.com/xxnjdlys/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-21
 - [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 - [**xxnjdlys.github.io**](https://github.com/xxnjdlys/xxnjdlys.github.io) — CSS · 2026-07-08
-- [**Happy-Match-**](https://github.com/xxnjdlys/Happy-Match-) — 开心消消乐 · TypeScript · 2026-06-15
-- [**CetusCastWeb**](https://github.com/xxnjdlys/CetusCastWeb) — CetusCast 的官网 · TypeScript · 2026-06-11
 
 ## 📝 最近提交
 
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**james-6-23/codex2api**](https://github.com/james-6-23/codex2api) — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 · 2026-08-25
 - ⭐ [**Big-Guan/jarvis-codex**](https://github.com/Big-Guan/jarvis-codex) — Jarvis × Codex v0.2.0：macOS 透明全息语音助手，本机“嗨 Jarvis”唤醒，直连 Codex Voice，在同一线程中对话、执行任… · 2026-08-21
 - ⭐ [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-14
 - ⭐ [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Show usage stats for OpenAI Codex and Claude Code, without having to login. · 2026-08-03
 - ⭐ [**open-gsd/gsd-core**](https://github.com/open-gsd/gsd-core) — Git. Ship. Done - Core · 2026-07-22
-- ⭐ [**peetzweg/opendisplay**](https://github.com/peetzweg/opendisplay) — Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true … · 2026-07-17
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-25 01:16:55 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-08-25 06:48:57 UTC
 </p>
