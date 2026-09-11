@@ -8,8 +8,8 @@
 
 ## 📌 最近更新的仓库
 
-- [**electron**](https://github.com/xxnjdlys/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-09-11
+- [**electron**](https://github.com/xxnjdlys/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
 - [**deepseek-harness**](https://github.com/xxnjdlys/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-21
 - [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-09-11 10:44:44 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-09-11 16:00:23 UTC
 </p>
