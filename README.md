@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**hypit-ai/hypit**](https://github.com/hypit-ai/hypit) — Clone any viral video with AI agents. Not just a script, the whole workflow: sw… · 2026-09-16
 - ⭐ [**electron/electron**](https://github.com/electron/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - ⭐ [**james-6-23/codex2api**](https://github.com/james-6-23/codex2api) — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 · 2026-08-25
 - ⭐ [**Big-Guan/jarvis-codex**](https://github.com/Big-Guan/jarvis-codex) — Jarvis × Codex v0.2.0：macOS 透明全息语音助手，本机“嗨 Jarvis”唤醒，直连 Codex Voice，在同一线程中对话、执行任… · 2026-08-21
 - ⭐ [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-14
-- ⭐ [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Show usage stats for OpenAI Codex and Claude Code, without having to login. · 2026-08-03
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-09-15 20:56:10 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-09-16 03:44:00 UTC
 </p>
