@@ -8,7 +8,7 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-10-14
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-10-15
 - [**electron**](https://github.com/xxnjdlys/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
 - [**deepseek-harness**](https://github.com/xxnjdlys/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-21
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**morluto/rea**](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binarie… · 2026-10-15
 - ⭐ [**lnkiai/m3e-canvas**](https://github.com/lnkiai/m3e-canvas) — Sketch Material 3 Expressive screens in the browser and turn them into vibe-cod… · 2026-10-12
 - ⭐ [**hypit-ai/hypit**](https://github.com/hypit-ai/hypit) — Clone any viral video with AI agents. Not just a script, the whole workflow: sw… · 2026-09-16
 - ⭐ [**electron/electron**](https://github.com/electron/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - ⭐ [**james-6-23/codex2api**](https://github.com/james-6-23/codex2api) — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 · 2026-08-25
-- ⭐ [**Big-Guan/jarvis-codex**](https://github.com/Big-Guan/jarvis-codex) — Jarvis × Codex v0.2.0：macOS 透明全息语音助手，本机“嗨 Jarvis”唤醒，直连 Codex Voice，在同一线程中对话、执行任… · 2026-08-21
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-10-15 03:33:42 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-10-15 10:58:21 UTC
 </p>
