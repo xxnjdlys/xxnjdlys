@@ -8,11 +8,11 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-10-15
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-10-16
+- [**yt-dlp**](https://github.com/xxnjdlys/yt-dlp) — A feature-rich command-line audio/video downloader · 2026-10-10
 - [**electron**](https://github.com/xxnjdlys/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
 - [**deepseek-harness**](https://github.com/xxnjdlys/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · 2026-08-21
-- [**codex-usage**](https://github.com/xxnjdlys/codex-usage) — A watch application specifically designed for monitoring the usage of codex · Kotlin · 2026-07-23
 
 ## 📝 最近提交
 
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio/video downloader · 2026-10-16
 - ⭐ [**morluto/rea**](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binarie… · 2026-10-15
 - ⭐ [**lnkiai/m3e-canvas**](https://github.com/lnkiai/m3e-canvas) — Sketch Material 3 Expressive screens in the browser and turn them into vibe-cod… · 2026-10-12
 - ⭐ [**hypit-ai/hypit**](https://github.com/hypit-ai/hypit) — Clone any viral video with AI agents. Not just a script, the whole workflow: sw… · 2026-09-16
 - ⭐ [**electron/electron**](https://github.com/electron/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
-- ⭐ [**james-6-23/codex2api**](https://github.com/james-6-23/codex2api) — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 · 2026-08-25
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-10-16 03:29:35 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-10-16 10:52:25 UTC
 </p>
