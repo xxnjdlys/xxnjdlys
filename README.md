@@ -8,7 +8,7 @@
 
 ## 📌 最近更新的仓库
 
-- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-11-12
+- [**xxnjdlys**](https://github.com/xxnjdlys/xxnjdlys) — Python · 2026-11-13
 - [**yt-dlp**](https://github.com/xxnjdlys/yt-dlp) — A feature-rich command-line audio/video downloader · 2026-10-10
 - [**electron**](https://github.com/xxnjdlys/electron) — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS · 2026-09-11
 - [**codex**](https://github.com/xxnjdlys/codex) — Lightweight coding agent that runs in your terminal · 2026-08-25
@@ -24,11 +24,11 @@
 
 ## ⭐ 最近 Star
 
+- ⭐ [**youhunwl/TVAPP**](https://github.com/youhunwl/TVAPP) — 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性… · 2026-11-13
 - ⭐ [**laoma528/awesome-zhuiju-free**](https://github.com/laoma528/awesome-zhuiju-free) — 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IP… · 2026-11-13
 - ⭐ [**qist/tvbox**](https://github.com/qist/tvbox) — OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 · 2026-11-13
 - ⭐ [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio/video downloader · 2026-10-16
 - ⭐ [**morluto/rea**](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binarie… · 2026-10-15
-- ⭐ [**lnkiai/m3e-canvas**](https://github.com/lnkiai/m3e-canvas) — Sketch Material 3 Expressive screens in the browser and turn them into vibe-cod… · 2026-10-12
 
 ## 🔀 最近 Pull Request
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-11-13 05:28:23 UTC
+  ⚡ Auto-updated by GitHub Actions | Last sync: 2026-11-13 14:03:05 UTC
 </p>
